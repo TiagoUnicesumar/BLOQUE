@@ -1,0 +1,157 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+  
+	 // AGENDAMENTOS E PRESENÇAS TÉCNICOS
+    {
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/6bc90dfe-b124-4520-a6b1-3024f7ddb0e1/ReportSectioncf35741061e927b8837b?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+    
+	//CPA
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/86010116-3555-4929-af9a-aef117a4cfcd/ReportSection?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+		
+	//INICIO E TERMINO DE LBD
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSection0b825cdab44219b1b06b?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+		
+	//INICIO E TERMINO DE TCC
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSectione45dec648b28e54ed298?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+		
+	//PESQUISA SATISFAÇÃO UNIVERSO
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSectiond6b23d9533c70a6922c0?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//PESQUISA SATISFAÇÃO UNIVERSO DIARIO
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSectiondb52408176420b89a7c4?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//PESQUISA SATISFAÇÃO UNIVERSO MENSAL
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSectione578eaf6dc4eb650c0b9?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//CAPTAÇÃO PROFISSIONALIZANTE
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSectiona0291a0ea5052c1bdd70?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//CAPTAÇÃO PÓS-GRADUAÇÃO
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSection9c9e50f284b5a5900115?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//CAPTAÇÃO TÉCNICOS
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSectionfcd4ddfae6e1a0ae2826?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//MATRICULAS PROFISSIONALIZANTE
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSectiona111136109474f6de092?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//MATRICULAS PÓS-GRADUAÇÃO
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSectionff74e58429e6207d557a?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//MATRICULAS TÉCNICOS
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSection02601ce0229e19182041?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//BANCO DE QUESTÕES
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/c826ab55-0976-4ad6-868b-8822008e6e35/ReportSectione535f2fd6ac0c93b34d0?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//PORTFÓLIOS
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/778d53dc-c14c-41c0-a036-16fb068bbcf5/ReportSection?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//ENGAJAMENTO TÉCNICOS
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/7664fee5-f6c5-4578-8827-ce0e15671ec8/ReportSection?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//ENGAJAMENTO PROFISSIONALIZANTE
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/33ee7ad5-b704-486e-b71a-c80a61d52c61/ReportSection?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//ENGAJAMENTO PÓS-GRADUAÇÃO
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/356be524-8f35-48cc-8135-65c2449bb290/ReportSection?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//MENSAGERIA
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/a7cb327f-edaa-4542-b9e8-6f0abf3093ad/ReportSectionb9438c84a5d63840fb31?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//UNIVERSO
+	{
+      "url": "https://app.powerbi.com/groups/529f8e31-42c8-4811-be72-5bee9c9caa1e/reports/0ce85224-04a3-493e-840d-db202b162aae/ReportSectionb67a3bab3a20287c43d3?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    },
+	
+	//DEMANDAS
+	{
+      "url": "https://docs.google.com/spreadsheets/d/16aKXDuEUzzzv1qhGLTOmYtLhTsZDlHiLasDkfjTYmX0/edit#gid=1917330990?chromeless=true",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 1800
+    }
+
+  ]
+}
